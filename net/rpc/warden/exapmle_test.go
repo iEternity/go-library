@@ -6,11 +6,11 @@ import (
 	"io"
 	"time"
 
-	"go-library/log"
-	"go-library/net/netutil/breaker"
-	"go-library/net/rpc/warden"
-	pb "go-library/net/rpc/warden/proto/testproto"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	"github.com/iEternity/go-library/net/rpc/warden"
+	pb "github.com/iEternity/go-library/net/rpc/warden/proto/testproto"
+	xtime "github.com/iEternity/go-library/time"
 
 	"google.golang.org/grpc"
 )

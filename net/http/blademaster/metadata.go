@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/log"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/log"
 
 	"github.com/pkg/errors"
 )

@@ -6,9 +6,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/ecode"
-	"go-library/log"
-	"go-library/stat/summary"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/stat/summary"
 )
 
 // sreBreaker is a sre CircuitBreaker pattern.

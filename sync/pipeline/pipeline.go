@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"go-library/net/metadata"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/net/metadata"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 // ErrFull channel full error

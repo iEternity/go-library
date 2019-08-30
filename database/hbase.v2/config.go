@@ -1,7 +1,7 @@
 package hbase
 
 import (
-	xtime "go-library/time"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 // ZKConfig Server&Client settings.

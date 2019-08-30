@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"go-library/conf/paladin"
+	"github.com/iEternity/go-library/conf/paladin"
 
 	"github.com/stretchr/testify/assert"
 )

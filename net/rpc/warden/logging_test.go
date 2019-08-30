@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"go-library/log"
+	"github.com/iEternity/go-library/log"
 )
 
 func Test_logFn(t *testing.T) {

@@ -1,7 +1,7 @@
 package service
 
 import (
-	"go-library/rate/limit/bench/stress/conf"
+	"github.com/iEternity/go-library/rate/limit/bench/stress/conf"
 )
 
 // Service struct

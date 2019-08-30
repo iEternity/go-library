@@ -15,9 +15,9 @@ import (
 	"strings"
 	"time"
 
-	"go-library/ecode"
-	xhttp "go-library/net/http/blademaster"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/ecode"
+	xhttp "github.com/iEternity/go-library/net/http/blademaster"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 const (

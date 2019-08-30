@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"go-library/ecode"
-	httpx "go-library/net/http/blademaster"
-	timex "go-library/time"
+	"github.com/iEternity/go-library/ecode"
+	httpx "github.com/iEternity/go-library/net/http/blademaster"
+	timex "github.com/iEternity/go-library/time"
 
 	"github.com/pkg/errors"
 )

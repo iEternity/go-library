@@ -7,7 +7,7 @@ import (
 	"os"
 	"sync"
 
-	"go-library/conf/dsn"
+	"github.com/iEternity/go-library/conf/dsn"
 
 	"github.com/pkg/errors"
 )

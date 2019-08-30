@@ -5,10 +5,10 @@ import (
 	"strconv"
 	"time"
 
-	"go-library/ecode"
-	nmd "go-library/net/metadata"
-	"go-library/stat/summary"
-	"go-library/stat/sys/cpu"
+	"github.com/iEternity/go-library/ecode"
+	nmd "github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/stat/summary"
+	"github.com/iEternity/go-library/stat/sys/cpu"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"

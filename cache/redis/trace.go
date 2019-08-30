@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"go-library/net/trace"
+	"github.com/iEternity/go-library/net/trace"
 )
 
 const (

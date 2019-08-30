@@ -3,8 +3,8 @@ package store
 import (
 	"context"
 
-	"go-library/cache/memcache"
-	"go-library/log"
+	"github.com/iEternity/go-library/cache/memcache"
+	"github.com/iEternity/go-library/log"
 )
 
 // Memcache represents the cache with memcached persistence

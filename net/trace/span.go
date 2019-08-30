@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	protogen "go-library/net/trace/proto"
+	protogen "github.com/iEternity/go-library/net/trace/proto"
 )
 
 const (

@@ -7,9 +7,9 @@ import (
 	"strconv"
 	"sync"
 
-	"go-library/conf/env"
-	"go-library/net/metadata"
-	"go-library/net/trace"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/trace"
 )
 
 var fm sync.Map

@@ -3,13 +3,13 @@ package cache_test
 import (
 	"time"
 
-	"go-library/cache/memcache"
-	"go-library/container/pool"
-	"go-library/ecode"
-	"go-library/net/http/blademaster"
-	"go-library/net/http/blademaster/middleware/cache"
-	"go-library/net/http/blademaster/middleware/cache/store"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/cache/memcache"
+	"github.com/iEternity/go-library/container/pool"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/http/blademaster/middleware/cache"
+	"github.com/iEternity/go-library/net/http/blademaster/middleware/cache/store"
+	xtime "github.com/iEternity/go-library/time"
 
 	"github.com/pkg/errors"
 )

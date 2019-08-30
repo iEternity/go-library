@@ -12,10 +12,10 @@ import (
 	"sync"
 	"time"
 
-	"go-library/log"
-	"go-library/net/metadata"
-	"go-library/net/netutil"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/netutil"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 const (

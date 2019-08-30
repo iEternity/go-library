@@ -6,7 +6,7 @@ import (
 	"os"
 	"runtime"
 
-	"go-library/log"
+	"github.com/iEternity/go-library/log"
 )
 
 // Recovery returns a middleware that recovers from any panics and writes a 500 if there was one.

@@ -9,11 +9,11 @@ import (
 	"sync"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/log/internal"
-	"go-library/net/metadata"
-	"go-library/net/trace"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/log/internal"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/trace"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 const (

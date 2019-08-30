@@ -1,8 +1,8 @@
 package rate_test
 
 import (
-	"go-library/net/http/blademaster"
-	"go-library/net/http/blademaster/middleware/rate"
+	"github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/http/blademaster/middleware/rate"
 )
 
 // This example create a rate middleware instance and attach to a blademaster engine,

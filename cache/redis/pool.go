@@ -25,9 +25,9 @@ import (
 	"sync"
 	"time"
 
-	"go-library/container/pool"
-	"go-library/net/trace"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/container/pool"
+	"github.com/iEternity/go-library/net/trace"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 var beginTime, _ = time.Parse("2006-01-02 15:04:05", "2006-01-02 15:04:05")

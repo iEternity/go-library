@@ -5,8 +5,8 @@ import (
 	"runtime"
 	"sync"
 
-	"go-library/log"
-	"go-library/stat/prom"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/stat/prom"
 )
 
 var (

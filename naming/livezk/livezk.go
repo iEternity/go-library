@@ -9,9 +9,9 @@ import (
 	"strings"
 	"time"
 
-	"go-library/log"
-	"go-library/naming"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/naming"
+	xtime "github.com/iEternity/go-library/time"
 
 	"github.com/samuel/go-zookeeper/zk"
 )

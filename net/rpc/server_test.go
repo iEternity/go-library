@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"go-library/net/rpc/context"
+	"github.com/iEternity/go-library/net/rpc/context"
 )
 
 var (

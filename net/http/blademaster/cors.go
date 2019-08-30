@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"go-library/log"
+	"github.com/iEternity/go-library/log"
 
 	"github.com/pkg/errors"
 )

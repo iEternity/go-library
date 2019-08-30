@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/queue/databus"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/queue/databus"
 
 	"github.com/pkg/errors"
 )

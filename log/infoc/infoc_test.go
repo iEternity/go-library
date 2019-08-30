@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"go-library/net/metadata"
+	"github.com/iEternity/go-library/net/metadata"
 )
 
 var (

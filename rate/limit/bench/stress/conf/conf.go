@@ -3,13 +3,13 @@ package conf
 import (
 	"flag"
 
-	"go-library/cache/memcache"
-	"go-library/cache/redis"
-	"go-library/database/sql"
-	ecode "go-library/ecode/tip"
-	"go-library/log"
-	bm "go-library/net/http/blademaster"
-	"go-library/net/trace"
+	"github.com/iEternity/go-library/cache/memcache"
+	"github.com/iEternity/go-library/cache/redis"
+	"github.com/iEternity/go-library/database/sql"
+	ecode "github.com/iEternity/go-library/ecode/tip"
+	"github.com/iEternity/go-library/log"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/trace"
 
 	"github.com/BurntSushi/toml"
 )

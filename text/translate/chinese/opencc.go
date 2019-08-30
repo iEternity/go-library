@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"go-library/log"
+	"github.com/iEternity/go-library/log"
 )
 
 var (

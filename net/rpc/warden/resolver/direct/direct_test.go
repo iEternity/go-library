@@ -7,11 +7,11 @@ import (
 	"testing"
 	"time"
 
-	"go-library/net/netutil/breaker"
-	"go-library/net/rpc/warden"
-	pb "go-library/net/rpc/warden/proto/testproto"
-	"go-library/net/rpc/warden/resolver"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	"github.com/iEternity/go-library/net/rpc/warden"
+	pb "github.com/iEternity/go-library/net/rpc/warden/proto/testproto"
+	"github.com/iEternity/go-library/net/rpc/warden/resolver"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 type testServer struct {

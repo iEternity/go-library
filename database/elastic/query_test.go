@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"go-library/queue/databus/report"
+	"github.com/iEternity/go-library/queue/databus/report"
 
 	. "github.com/smartystreets/goconvey/convey"
 )

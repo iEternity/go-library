@@ -3,7 +3,7 @@ package paladin
 import (
 	"context"
 	"flag"
-	"go-library/log"
+	"github.com/iEternity/go-library/log"
 )
 
 var (

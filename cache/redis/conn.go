@@ -27,7 +27,7 @@ import (
 	"sync"
 	"time"
 
-	"go-library/stat"
+	"github.com/iEternity/go-library/stat"
 
 	"github.com/pkg/errors"
 )

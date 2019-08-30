@@ -6,10 +6,10 @@ import (
 	"strings"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/log"
-	"go-library/naming"
-	"go-library/naming/discovery"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/naming"
+	"github.com/iEternity/go-library/naming/discovery"
 )
 
 var _schema = "tidb://"

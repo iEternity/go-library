@@ -10,14 +10,14 @@ import (
 	"sync"
 	"time"
 
-	"go-library/conf/dsn"
-	"go-library/log"
-	nmd "go-library/net/metadata"
-	"go-library/net/trace"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/conf/dsn"
+	"github.com/iEternity/go-library/log"
+	nmd "github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/trace"
+	xtime "github.com/iEternity/go-library/time"
 	//this package is for json format response
-	_ "go-library/net/rpc/warden/encoding/json"
-	"go-library/net/rpc/warden/status"
+	_ "github.com/iEternity/go-library/net/rpc/warden/encoding/json"
+	"github.com/iEternity/go-library/net/rpc/warden/status"
 
 	"github.com/pkg/errors"
 	"google.golang.org/grpc"

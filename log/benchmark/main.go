@@ -11,8 +11,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/log"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/log"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 var isClient bool

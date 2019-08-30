@@ -8,11 +8,11 @@ import (
 	"testing"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/ecode"
-	"go-library/exp/feature"
-	"go-library/naming"
-	"go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/exp/feature"
+	"github.com/iEternity/go-library/naming"
+	"github.com/iEternity/go-library/net/http/blademaster"
 
 	. "github.com/smartystreets/goconvey/convey"
 )

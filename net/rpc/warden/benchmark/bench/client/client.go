@@ -8,10 +8,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/net/netutil/breaker"
-	"go-library/net/rpc/warden"
-	"go-library/net/rpc/warden/benchmark/bench/proto"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	"github.com/iEternity/go-library/net/rpc/warden"
+	"github.com/iEternity/go-library/net/rpc/warden/benchmark/bench/proto"
+	xtime "github.com/iEternity/go-library/time"
 
 	goproto "github.com/gogo/protobuf/proto"
 	"github.com/montanaflynn/stats"

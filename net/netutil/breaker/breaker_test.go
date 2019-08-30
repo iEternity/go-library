@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	xtime "go-library/time"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 func TestGroup(t *testing.T) {

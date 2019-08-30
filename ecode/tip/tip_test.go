@@ -4,7 +4,7 @@ import (
 	"sync"
 	"testing"
 
-	"go-library/ecode"
+	"github.com/iEternity/go-library/ecode"
 )
 
 var (

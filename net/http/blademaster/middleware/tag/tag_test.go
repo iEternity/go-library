@@ -7,9 +7,9 @@ import (
 	"testing"
 	"time"
 
-	"go-library/log"
-	"go-library/net/http/blademaster"
-	"go-library/net/http/blademaster/middleware/tag"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/http/blademaster/middleware/tag"
 
 	"github.com/stretchr/testify/assert"
 )

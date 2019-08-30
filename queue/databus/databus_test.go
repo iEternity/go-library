@@ -5,9 +5,9 @@ import (
 	"testing"
 	"time"
 
-	"go-library/naming/discovery"
-	"go-library/queue/databus"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/naming/discovery"
+	"github.com/iEternity/go-library/queue/databus"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 var (

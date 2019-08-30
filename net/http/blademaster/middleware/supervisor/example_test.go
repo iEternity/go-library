@@ -1,8 +1,8 @@
 package supervisor_test
 
 import (
-	"go-library/net/http/blademaster"
-	"go-library/net/http/blademaster/middleware/supervisor"
+	"github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/http/blademaster/middleware/supervisor"
 	"time"
 )
 

@@ -7,12 +7,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/exp/feature"
-	"go-library/log"
-	"go-library/net/rpc/warden"
-	pb "go-library/net/rpc/warden/proto/testproto"
-	"go-library/net/rpc/warden/resolver"
-	"go-library/net/rpc/warden/resolver/direct"
+	"github.com/iEternity/go-library/exp/feature"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/rpc/warden"
+	pb "github.com/iEternity/go-library/net/rpc/warden/proto/testproto"
+	"github.com/iEternity/go-library/net/rpc/warden/resolver"
+	"github.com/iEternity/go-library/net/rpc/warden/resolver/direct"
 )
 
 var addrs string

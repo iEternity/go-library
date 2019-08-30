@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package liverpc;
 
-option go_package = "go-library/net/rpc/liverpc";
+option go_package = "github.com/iEternity/go-library/net/rpc/liverpc";
 
 
 message Header {

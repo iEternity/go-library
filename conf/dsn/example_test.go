@@ -3,8 +3,8 @@ package dsn_test
 import (
 	"log"
 
-	"go-library/conf/dsn"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/conf/dsn"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 // Config struct

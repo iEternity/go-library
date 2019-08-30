@@ -8,9 +8,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/ecode"
-	"go-library/net/netutil/breaker"
-	"go-library/net/trace"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	"github.com/iEternity/go-library/net/trace"
 
 	"github.com/pkg/errors"
 )

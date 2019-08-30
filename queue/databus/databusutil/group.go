@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"go-library/queue/databus"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/queue/databus"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 const (

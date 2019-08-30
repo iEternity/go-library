@@ -6,8 +6,8 @@ import (
 	"net/http/httptrace"
 	"strconv"
 
-	"go-library/net/metadata"
-	"go-library/net/trace"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/trace"
 )
 
 const _defaultComponentName = "net/http"

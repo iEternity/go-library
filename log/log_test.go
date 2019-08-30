@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	"go-library/net/metadata"
+	"github.com/iEternity/go-library/net/metadata"
 
 	"github.com/stretchr/testify/assert"
 )

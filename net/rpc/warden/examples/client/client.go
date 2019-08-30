@@ -5,9 +5,9 @@ import (
 	"flag"
 	"fmt"
 
-	"go-library/ecode"
-	"go-library/net/rpc/warden"
-	pb "go-library/net/rpc/warden/proto/testproto"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/net/rpc/warden"
+	pb "github.com/iEternity/go-library/net/rpc/warden/proto/testproto"
 
 	"github.com/golang/protobuf/ptypes"
 	"github.com/golang/protobuf/ptypes/any"

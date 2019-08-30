@@ -20,12 +20,12 @@ import (
 
 	xhttp "net/http"
 
-	"go-library/conf/env"
-	"go-library/log"
-	"go-library/net/metadata"
-	"go-library/net/netutil/breaker"
-	"go-library/stat"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	"github.com/iEternity/go-library/stat"
+	xtime "github.com/iEternity/go-library/time"
 
 	"github.com/gogo/protobuf/proto"
 	pkgerr "github.com/pkg/errors"

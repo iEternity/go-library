@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"time"
 
-	"go-library/cache/redis"
-	"go-library/ecode"
-	"go-library/log"
-	bm "go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/cache/redis"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/log"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
 
 	"github.com/pkg/errors"
 )

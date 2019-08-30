@@ -8,12 +8,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/log"
-	"go-library/naming"
-	"go-library/naming/discovery"
-	"go-library/net/netutil/breaker"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/naming"
+	"github.com/iEternity/go-library/naming/discovery"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 const (

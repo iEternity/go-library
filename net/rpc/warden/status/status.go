@@ -9,8 +9,8 @@ import (
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"go-library/ecode"
-	"go-library/ecode/pb"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/ecode/pb"
 )
 
 // togRPCCode convert ecode.Codo to gRPC code

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	"go-library/conf/env"
-	"go-library/naming"
-	"go-library/net/rpc/warden/resolver"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/naming"
+	"github.com/iEternity/go-library/net/rpc/warden/resolver"
 )
 
 const (

@@ -12,16 +12,16 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/cache/redis"
-	"go-library/conf/env"
-	"go-library/container/pool"
-	"go-library/log"
-	"go-library/naming"
-	"go-library/naming/discovery"
-	"go-library/net/netutil"
-	"go-library/net/trace"
-	"go-library/stat/prom"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/cache/redis"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/container/pool"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/naming"
+	"github.com/iEternity/go-library/naming/discovery"
+	"github.com/iEternity/go-library/net/netutil"
+	"github.com/iEternity/go-library/net/trace"
+	"github.com/iEternity/go-library/stat/prom"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 const (

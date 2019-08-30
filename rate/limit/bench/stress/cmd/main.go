@@ -7,10 +7,10 @@ import (
 	"os/signal"
 	"syscall"
 
-	"go-library/log"
-	"go-library/net/trace"
-	"go-library/rate/limit/bench/stress/conf"
-	"go-library/rate/limit/bench/stress/http"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/trace"
+	"github.com/iEternity/go-library/rate/limit/bench/stress/conf"
+	"github.com/iEternity/go-library/rate/limit/bench/stress/http"
 )
 
 func main() {

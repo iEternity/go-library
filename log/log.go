@@ -9,10 +9,10 @@ import (
 	"strconv"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/log/internal"
-	"go-library/stat/prom"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/log/internal"
+	"github.com/iEternity/go-library/stat/prom"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 // Config log config.

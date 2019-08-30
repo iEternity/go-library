@@ -3,8 +3,8 @@ package supervisor
 import (
 	"time"
 
-	"go-library/ecode"
-	bm "go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/ecode"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
 )
 
 // Config supervisor conf.

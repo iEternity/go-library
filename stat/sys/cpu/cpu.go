@@ -2,7 +2,7 @@ package cpu
 
 import (
 	"fmt"
-	"go-library/log"
+	"github.com/iEternity/go-library/log"
 	"sync/atomic"
 	"time"
 )

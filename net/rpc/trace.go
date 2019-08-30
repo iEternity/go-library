@@ -3,7 +3,7 @@ package rpc
 import (
 	"strconv"
 
-	"go-library/net/trace"
+	"github.com/iEternity/go-library/net/trace"
 )
 
 // TraceInfo propagate trace propagate gorpc call

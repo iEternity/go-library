@@ -4,7 +4,7 @@ import (
 	"sync"
 	"testing"
 
-	"go-library/log/infoc"
+	"github.com/iEternity/go-library/log/infoc"
 )
 
 var (

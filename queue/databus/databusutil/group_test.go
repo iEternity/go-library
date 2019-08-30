@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"go-library/log"
-	"go-library/queue/databus"
-	"go-library/sync/errgroup"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/queue/databus"
+	"github.com/iEternity/go-library/sync/errgroup"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 type testMsg struct {

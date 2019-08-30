@@ -6,8 +6,8 @@ import (
 	"os"
 	"runtime"
 
-	"go-library/ecode"
-	"go-library/log"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/log"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"

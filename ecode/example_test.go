@@ -2,7 +2,7 @@ package ecode_test
 
 import (
 	"fmt"
-	"go-library/ecode"
+	"github.com/iEternity/go-library/ecode"
 
 	"github.com/pkg/errors"
 )

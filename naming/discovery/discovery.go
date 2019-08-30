@@ -13,16 +13,16 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/ecode"
-	"go-library/exp/feature"
-	"go-library/log"
-	"go-library/naming"
-	bm "go-library/net/http/blademaster"
-	"go-library/net/netutil"
-	"go-library/net/netutil/breaker"
-	xtime "go-library/time"
-	"go-library/xstr"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/exp/feature"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/naming"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/netutil"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	xtime "github.com/iEternity/go-library/time"
+	"github.com/iEternity/go-library/xstr"
 )
 
 const (

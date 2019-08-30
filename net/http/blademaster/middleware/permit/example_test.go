@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"time"
 
-	"go-library/cache/memcache"
-	"go-library/container/pool"
-	bm "go-library/net/http/blademaster"
-	"go-library/net/http/blademaster/middleware/permit"
-	"go-library/net/metadata"
-	"go-library/net/netutil/breaker"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/cache/memcache"
+	"github.com/iEternity/go-library/container/pool"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/http/blademaster/middleware/permit"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 // This example create a permit middleware instance and attach to several path,

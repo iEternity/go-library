@@ -1,10 +1,10 @@
 package tidb
 
 import (
-	"go-library/log"
-	"go-library/net/netutil/breaker"
-	"go-library/stat"
-	"go-library/time"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	"github.com/iEternity/go-library/stat"
+	"github.com/iEternity/go-library/time"
 
 	// database driver
 	_ "github.com/go-sql-driver/mysql"

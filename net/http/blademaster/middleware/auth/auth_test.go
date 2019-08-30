@@ -10,13 +10,13 @@ import (
 	"testing"
 	"time"
 
-	"go-library/ecode"
-	"go-library/log"
-	bm "go-library/net/http/blademaster"
-	"go-library/net/metadata"
-	"go-library/net/netutil/breaker"
-	"go-library/net/rpc/warden"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/log"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	"github.com/iEternity/go-library/net/rpc/warden"
+	xtime "github.com/iEternity/go-library/time"
 
 	"github.com/stretchr/testify/assert"
 )

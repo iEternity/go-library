@@ -10,9 +10,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/net/rpc/warden"
-	"go-library/net/rpc/warden/benchmark/bench/proto"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/net/rpc/warden"
+	"github.com/iEternity/go-library/net/rpc/warden/benchmark/bench/proto"
+	xtime "github.com/iEternity/go-library/time"
 
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"google.golang.org/grpc"

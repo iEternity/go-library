@@ -6,8 +6,8 @@ import (
 	"sync"
 	"testing"
 
-	"go-library/ecode"
-	"go-library/net/rpc/context"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/net/rpc/context"
 
 	"golang.org/x/time/rate"
 )

@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 
-	"go-library/exp/feature"
+	"github.com/iEternity/go-library/exp/feature"
 )
 
 var (

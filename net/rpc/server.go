@@ -19,13 +19,13 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"go-library/conf/dsn"
-	"go-library/conf/env"
-	xlog "go-library/log"
-	"go-library/net/metadata"
-	"go-library/net/rpc/context"
-	"go-library/net/rpc/interceptor"
-	"go-library/net/trace"
+	"github.com/iEternity/go-library/conf/dsn"
+	"github.com/iEternity/go-library/conf/env"
+	xlog "github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/rpc/context"
+	"github.com/iEternity/go-library/net/rpc/interceptor"
+	"github.com/iEternity/go-library/net/trace"
 
 	pkgerr "github.com/pkg/errors"
 )

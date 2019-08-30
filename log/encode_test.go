@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"go-library/log/internal"
+	"github.com/iEternity/go-library/log/internal"
 )
 
 func TestJsonEncode(t *testing.T) {

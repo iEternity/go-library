@@ -3,7 +3,7 @@ package paladin_test
 import (
 	"testing"
 
-	"go-library/conf/paladin"
+	"github.com/iEternity/go-library/conf/paladin"
 
 	"github.com/naoina/toml"
 	"github.com/stretchr/testify/assert"

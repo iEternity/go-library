@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"go-library/ecode"
-	"go-library/net/http/blademaster/binding"
-	"go-library/net/http/blademaster/render"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/net/http/blademaster/binding"
+	"github.com/iEternity/go-library/net/http/blademaster/render"
 
 	"github.com/gogo/protobuf/proto"
 	"github.com/gogo/protobuf/types"

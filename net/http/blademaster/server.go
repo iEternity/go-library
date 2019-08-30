@@ -13,12 +13,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/conf/dsn"
-	"go-library/log"
-	"go-library/net/ip"
-	"go-library/net/metadata"
-	"go-library/stat"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/conf/dsn"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/ip"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/stat"
+	xtime "github.com/iEternity/go-library/time"
 
 	"github.com/pkg/errors"
 )

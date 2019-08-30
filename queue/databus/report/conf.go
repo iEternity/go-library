@@ -3,9 +3,9 @@ package report
 import (
 	"time"
 
-	"go-library/conf/env"
-	"go-library/queue/databus"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/queue/databus"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 var (

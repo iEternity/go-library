@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"go-library/conf/paladin"
+	"github.com/iEternity/go-library/conf/paladin"
 
 	"github.com/naoina/toml"
 )

@@ -9,10 +9,10 @@ import (
 	"strings"
 	"sync"
 
-	"go-library/conf/env"
-	"go-library/log"
-	"go-library/naming"
-	wmeta "go-library/net/rpc/warden/metadata"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/naming"
+	wmeta "github.com/iEternity/go-library/net/rpc/warden/metadata"
 
 	"github.com/dgryski/go-farm"
 	"github.com/pkg/errors"

@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"go-library/log"
-	bm "go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/log"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
 )
 
 func init() {

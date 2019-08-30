@@ -7,10 +7,10 @@ import (
 	"testing"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/naming"
-	"go-library/naming/discovery"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/naming"
+	"github.com/iEternity/go-library/naming/discovery"
+	xtime "github.com/iEternity/go-library/time"
 
 	. "github.com/smartystreets/goconvey/convey"
 )

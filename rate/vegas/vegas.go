@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/rate"
+	"github.com/iEternity/go-library/rate"
 )
 
 const (

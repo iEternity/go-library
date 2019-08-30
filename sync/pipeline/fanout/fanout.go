@@ -6,10 +6,10 @@ import (
 	"runtime"
 	"sync"
 
-	"go-library/log"
-	"go-library/net/metadata"
-	"go-library/net/trace"
-	"go-library/stat/prom"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/trace"
+	"github.com/iEternity/go-library/stat/prom"
 )
 
 var (

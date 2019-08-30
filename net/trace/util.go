@@ -8,8 +8,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"go-library/conf/env"
-	"go-library/net/metadata"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/net/metadata"
 )
 
 var _hostHash byte

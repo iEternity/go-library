@@ -13,8 +13,8 @@ import (
 	"strings"
 	"time"
 
-	"go-library/ecode"
-	"go-library/log"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/log"
 )
 
 const (

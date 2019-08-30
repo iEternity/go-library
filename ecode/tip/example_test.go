@@ -3,10 +3,10 @@ package tip_test
 import (
 	"time"
 
-	"go-library/ecode/tip"
-	xhttp "go-library/net/http/blademaster"
-	"go-library/net/netutil/breaker"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/ecode/tip"
+	xhttp "github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/netutil/breaker"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 func ExampleInit() {

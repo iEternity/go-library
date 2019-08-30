@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/log"
-	"go-library/net/metadata"
-	"go-library/net/trace"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/log"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/trace"
 
 	"github.com/gogo/protobuf/proto"
 	"github.com/json-iterator/go"

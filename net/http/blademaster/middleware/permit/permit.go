@@ -4,11 +4,11 @@ import (
 	"net/url"
 
 	mng "go-common/app/admin/main/manager/api"
-	"go-library/ecode"
-	"go-library/log"
-	bm "go-library/net/http/blademaster"
-	"go-library/net/metadata"
-	"go-library/net/rpc/warden"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/log"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/metadata"
+	"github.com/iEternity/go-library/net/rpc/warden"
 
 	"github.com/pkg/errors"
 )

@@ -7,13 +7,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/log"
-	bm "go-library/net/http/blademaster"
-	"go-library/rate"
-	"go-library/rate/limit"
-	"go-library/rate/limit/bench/stress/conf"
-	"go-library/rate/limit/bench/stress/service"
-	"go-library/rate/vegas"
+	"github.com/iEternity/go-library/log"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/rate"
+	"github.com/iEternity/go-library/rate/limit"
+	"github.com/iEternity/go-library/rate/limit/bench/stress/conf"
+	"github.com/iEternity/go-library/rate/limit/bench/stress/service"
+	"github.com/iEternity/go-library/rate/vegas"
 )
 
 var (

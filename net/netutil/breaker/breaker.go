@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	xtime "go-library/time"
+	xtime "github.com/iEternity/go-library/time"
 )
 
 // Config broker config.

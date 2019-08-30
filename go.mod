@@ -1,4 +1,4 @@
-module go-library
+module github.com/iEternity/go-library
 
 go 1.12
 

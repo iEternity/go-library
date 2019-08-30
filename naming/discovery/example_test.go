@@ -3,8 +3,8 @@ package discovery_test
 import (
 	"context"
 	"fmt"
-	"go-library/naming"
-	"go-library/naming/discovery"
+	"github.com/iEternity/go-library/naming"
+	"github.com/iEternity/go-library/naming/discovery"
 	"time"
 )
 

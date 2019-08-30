@@ -10,10 +10,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	"go-library/ecode"
-	"go-library/log"
-	bm "go-library/net/http/blademaster"
-	"go-library/net/http/blademaster/middleware/cache/store"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/log"
+	bm "github.com/iEternity/go-library/net/http/blademaster"
+	"github.com/iEternity/go-library/net/http/blademaster/middleware/cache/store"
 )
 
 const (

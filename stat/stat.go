@@ -1,7 +1,7 @@
 package stat
 
 import (
-	"go-library/stat/prom"
+	"github.com/iEternity/go-library/stat/prom"
 )
 
 // Stat interface.

@@ -8,7 +8,7 @@ import (
 	"github.com/smartystreets/goconvey/convey"
 	"github.com/stretchr/testify/assert"
 
-	"go-library/ecode/internal/types"
+	"github.com/iEternity/go-library/ecode/internal/types"
 )
 
 func TestEqual(t *testing.T) {

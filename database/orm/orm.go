@@ -4,9 +4,9 @@ import (
 	"strings"
 	"time"
 
-	"go-library/ecode"
-	"go-library/log"
-	xtime "go-library/time"
+	"github.com/iEternity/go-library/ecode"
+	"github.com/iEternity/go-library/log"
+	xtime "github.com/iEternity/go-library/time"
 
 	// database driver
 	_ "github.com/go-sql-driver/mysql"

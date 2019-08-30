@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"go-library/conf/env"
-	"go-library/net/metadata"
+	"github.com/iEternity/go-library/conf/env"
+	"github.com/iEternity/go-library/net/metadata"
 
 	. "github.com/smartystreets/goconvey/convey"
 )

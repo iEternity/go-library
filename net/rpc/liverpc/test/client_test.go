@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	"go-library/net/rpc/liverpc"
-	"go-library/net/rpc/liverpc/testdata"
-	v1 "go-library/net/rpc/liverpc/testdata/v1"
-	v2 "go-library/net/rpc/liverpc/testdata/v2"
+	"github.com/iEternity/go-library/net/rpc/liverpc"
+	"github.com/iEternity/go-library/net/rpc/liverpc/testdata"
+	v1 "github.com/iEternity/go-library/net/rpc/liverpc/testdata/v1"
+	v2 "github.com/iEternity/go-library/net/rpc/liverpc/testdata/v2"
 
 	"github.com/pkg/errors"
 )

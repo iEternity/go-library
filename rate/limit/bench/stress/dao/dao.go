@@ -3,10 +3,10 @@ package dao
 import (
 	"context"
 
-	"go-library/cache/memcache"
-	"go-library/cache/redis"
-	xsql "go-library/database/sql"
-	"go-library/rate/limit/bench/stress/conf"
+	"github.com/iEternity/go-library/cache/memcache"
+	"github.com/iEternity/go-library/cache/redis"
+	xsql "github.com/iEternity/go-library/database/sql"
+	"github.com/iEternity/go-library/rate/limit/bench/stress/conf"
 )
 
 // Dao dao
